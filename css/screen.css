@@ -21,13 +21,13 @@ a.btn { font-size: 1.2em; text-decoration: none; color: #fff; border: 1px solid 
 a.btn:hover { background-color: rgba(0,0,0,.3)}
 /* Header */
 
-header { height: 430px; background: #cf0004 url(../images/banner_1200.jpg) no-repeat center bottom; position: relative;}
+header { height: 430px; background: #cf0004 url(../images/pasta3-md.jpg) no-repeat center bottom; position: relative;}
 
 header a.logo { 
 	z-index: 1;
 	position: absolute; 
 	display: block; width: 160px; height: 66px; 
-	background: url(../images/logo.svg) no-repeat 0 0; background-size: contain;
+	background: url(../images/kniftyLogoHorizontal.svg) no-repeat 0 0; background-size: contain;
 	top:15px; left: 20px;
 }
 
@@ -63,7 +63,7 @@ section.main aside .content.tools { background-image: url(../images/icon_gear.sv
 
 section.atmosphere { background-color: #cc6633; padding-top: 30px; padding-bottom: 30px; color: #fff;}
 
-section.atmosphere article { padding: 0 20px 0 515px; background: url(../images/photo_lounge.jpg) no-repeat 0 50px; min-height: 220px; }
+section.atmosphere article { padding: 0 20px 0 515px; background: url(../images/noodles-lg.jpg) no-repeat 0 50px; min-height: 220px; }
 
 
 /* Section - How To */
@@ -108,7 +108,8 @@ section.how-to blockquote p.credit::before { content:'\2014'; position: absolute
 /* Navigation */
 
 nav {
-	background-color: rgba(0,0,0,.65);
+	background-color: rgba(210,105,30,.85);
+	/*background-color: rgba(0,0,0,.65);*/
 	position: absolute;
 	top: 0px; left: 0px;
 	padding: 50px 0 0 0;
